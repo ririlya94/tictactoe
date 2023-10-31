@@ -7,16 +7,25 @@
 - **SDK Target** : 24 - 33
 
 ## Features
-- **TicTacToe:** Play tictactoe with your friend *physically*
+- **TicTacToe:** Play tictactoe with your friend
+- **Multiple Grid:** Challenge yourself with 4x4 and also 5x5!
+
+## Library
+[![Lottie](https://img.shields.io/badge/lottie%3A6.1.0-a4c639?style=for-the-badge&logo=android&logoColor=white)](https://github.com/airbnb/lottie-android)
+[![Konfetti](https://img.shields.io/badge/konfetti_xml%3A2.0.3-a4c639?style=for-the-badge&logo=android&logoColor=white)](https://github.com/DanielMartinus/Konfetti)
+[![Konfetti](https://img.shields.io/badge/androidx.navigation_2.7.4-a4c639?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/jetpack/androidx/releases/navigation)
 
 ## Roadmap
 
 - [x] Init commit
-- [ ] Creating TicTacToe Gameplay
-    - [ ] Create UI tictactoe
-    - [ ] Logic TicTacToe Gameplay
-    - [ ] Logic TicTacToe win/lose gameplay requirement
-    - [ ] Reset and Play Again!
+- [x] Creating TicTacToe Gameplay
+    - [x] Create UI tictactoe
+    - [x] Logic TicTacToe Gameplay
+    - [x] Logic TicTacToe win/lose gameplay requirement
+    - [x] Reset and Play Again!
+- [x] Creating other grid tictactoe
+  - [x] 4x4
+  - [x] 5x5
 
 ## 📡 Reach Out 📡
 
